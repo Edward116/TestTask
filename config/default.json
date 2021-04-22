@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "edward test task" ,
+  "mongoUri": "mongodb+srv://Edward:1234zxcv@cluster0.umjez.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
